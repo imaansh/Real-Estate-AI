@@ -5,7 +5,7 @@
 2) Description Generation
 3) Recommendation Generation
 4) User Intent Identification
-5) Convversational AI for general questions
+5) Conversational AI for general questions
 
 ## Price Prediction
 1) Data Cleaning + Preprocessing (Outlier exclusion, log)
